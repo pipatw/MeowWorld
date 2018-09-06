@@ -1,0 +1,11 @@
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.deps.json
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.runtimeconfig.json
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.runtimeconfig.dev.json
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.dll
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\bin\Debug\netcoreapp2.0\MeowWorld.pdb
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.csprojResolveAssemblyReference.cache
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.csproj.CoreCompileInputs.cache
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.AssemblyInfoInputs.cache
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.AssemblyInfo.cs
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.dll
+C:\Users\pipat1\source\repos\MeowWorld\MeowWorld\obj\Debug\netcoreapp2.0\MeowWorld.pdb
